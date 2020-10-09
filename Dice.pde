@@ -1,4 +1,4 @@
-     
+
 int sum = 0;
 
 
@@ -16,7 +16,11 @@ void setup()
  noLoop();
 
 
- background(#);
+ background(#00FFFF);
+
+
+
+
 }
 
 

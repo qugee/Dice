@@ -16,8 +16,8 @@ void setup()
  noLoop();
 
 
- background(#00FFFF);
-
+ background(#);
+textAlign(CENTER);
 
 }
 
